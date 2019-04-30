@@ -14,6 +14,8 @@ int n , m , t;
 
 double conv;
 
+bool ok;
+
 int main()
 {
     ios_base::sync_with_stdio(0);
