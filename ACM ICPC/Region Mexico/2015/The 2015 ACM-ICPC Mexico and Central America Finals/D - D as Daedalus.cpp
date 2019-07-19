@@ -2,7 +2,7 @@
 #define endl '\n'
 using namespace std;
 
-int n , m , b , me , s , i , w , d , a , j , ans;
+int n , m , b , me , s , i, Arturo, w , d , a , j , ans;
 
 int main()
 {
