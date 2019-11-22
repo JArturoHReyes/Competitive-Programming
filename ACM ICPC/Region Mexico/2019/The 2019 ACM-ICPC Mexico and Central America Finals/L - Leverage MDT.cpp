@@ -6,6 +6,8 @@ int m , n , low , high , ans , mid , column;
 
 string x;
 
+string prr;
+
 int dp[1010][1010];
 
 bool can(int side)
